@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EXAMAPP</string>
+    <string name="start_navigate">Start Navigate</string>
+    <string name="exam_app">EXAM APP</string>
+    <string name="oscar_samba_bilongo">Oscar Samba Bilongo</string>
+    <string name="exit">Exit</string>
+    <string name="Clear" />
+</resources>
